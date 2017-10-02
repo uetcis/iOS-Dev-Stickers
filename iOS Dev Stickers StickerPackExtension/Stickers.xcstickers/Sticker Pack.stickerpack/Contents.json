@@ -1,4 +1,57 @@
 {
+  "stickers" : [
+    {
+      "filename" : "foundNil.sticker"
+    },
+    {
+      "filename" : "badInstruct.sticker"
+    },
+    {
+      "filename" : "buildFailed.sticker"
+    },
+    {
+      "filename" : "slowUploading.sticker"
+    },
+    {
+      "filename" : "rejected.sticker"
+    },
+    {
+      "filename" : "metaRejected.sticker"
+    },
+    {
+      "filename" : "removedFromSale.sticker"
+    },
+    {
+      "filename" : "invailedBin.sticker"
+    },
+    {
+      "filename" : "mach-oLinkerError.sticker"
+    },
+    {
+      "filename" : "storyboardError.sticker"
+    },
+    {
+      "filename" : "rename.sticker"
+    },
+    {
+      "filename" : "sharedUnavailable.sticker"
+    },
+    {
+      "filename" : "xcodeNotResponding.sticker"
+    },
+    {
+      "filename" : "xcodeQuit.sticker"
+    },
+    {
+      "filename" : "readyForSale.sticker"
+    },
+    {
+      "filename" : "buildSucceed.sticker"
+    },
+    {
+      "filename" : "uploaded.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
