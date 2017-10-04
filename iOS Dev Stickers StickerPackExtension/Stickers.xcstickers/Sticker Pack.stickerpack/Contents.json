@@ -1,52 +1,52 @@
 {
   "stickers" : [
     {
-      "filename" : "foundNil.sticker"
-    },
-    {
-      "filename" : "badInstruct.sticker"
-    },
-    {
       "filename" : "buildFailed.sticker"
-    },
-    {
-      "filename" : "slowUploading.sticker"
-    },
-    {
-      "filename" : "rejected.sticker"
-    },
-    {
-      "filename" : "metaRejected.sticker"
-    },
-    {
-      "filename" : "removedFromSale.sticker"
-    },
-    {
-      "filename" : "invailedBin.sticker"
-    },
-    {
-      "filename" : "mach-oLinkerError.sticker"
-    },
-    {
-      "filename" : "storyboardError.sticker"
-    },
-    {
-      "filename" : "rename.sticker"
     },
     {
       "filename" : "sharedUnavailable.sticker"
     },
     {
-      "filename" : "xcodeNotResponding.sticker"
+      "filename" : "mach-oLinkerError.sticker"
+    },
+    {
+      "filename" : "metaRejected.sticker"
+    },
+    {
+      "filename" : "invalidBin.sticker"
+    },
+    {
+      "filename" : "badInstruction.sticker"
     },
     {
       "filename" : "xcodeQuit.sticker"
     },
     {
-      "filename" : "readyForSale.sticker"
+      "filename" : "foundNil.sticker"
+    },
+    {
+      "filename" : "slowUploading.sticker"
+    },
+    {
+      "filename" : "xcodeNotResponding.sticker"
+    },
+    {
+      "filename" : "storyboardError.sticker"
+    },
+    {
+      "filename" : "removedFromSale.sticker"
+    },
+    {
+      "filename" : "rejected.sticker"
+    },
+    {
+      "filename" : "rename.sticker"
     },
     {
       "filename" : "buildSucceed.sticker"
+    },
+    {
+      "filename" : "readyForSale.sticker"
     },
     {
       "filename" : "uploaded.sticker"
